@@ -1,0 +1,16 @@
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\bin\Debug\net5.0\ziyad.exe
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\bin\Debug\net5.0\ziyad.deps.json
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\bin\Debug\net5.0\ziyad.runtimeconfig.json
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\bin\Debug\net5.0\ziyad.runtimeconfig.dev.json
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\bin\Debug\net5.0\ziyad.dll
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\bin\Debug\net5.0\ref\ziyad.dll
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\bin\Debug\net5.0\ziyad.pdb
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\obj\Debug\net5.0\ziyad.csproj.AssemblyReference.cache
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\obj\Debug\net5.0\ziyad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\obj\Debug\net5.0\ziyad.AssemblyInfoInputs.cache
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\obj\Debug\net5.0\ziyad.AssemblyInfo.cs
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\obj\Debug\net5.0\ziyad.csproj.CoreCompileInputs.cache
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\obj\Debug\net5.0\ziyad.dll
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\obj\Debug\net5.0\ref\ziyad.dll
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\obj\Debug\net5.0\ziyad.pdb
+C:\Users\ziyad\OneDrive\Documents\B_JavaScript\ziyad\obj\Debug\net5.0\ziyad.genruntimeconfig.cache
